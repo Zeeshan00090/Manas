@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.npz
+*.log
+*.sqlite
+*.db
+.DS_Store
+.vscode/
+
+# Project specific directories
+manas_lm_checkpoints/
+manas_rag_memory/
+manas_training_data/
+graph_db/
+scratch/
